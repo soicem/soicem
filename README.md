@@ -15,7 +15,6 @@
 ## Study groups in progress
 - [leetcode DSA breakfast study](https://docs.google.com/spreadsheets/d/1vqATL-9kF2jG49I8q0l72ceRpTSfK0023bR77Hd7OTE/edit?usp=sharing) - Leetcode live coding practice will be held every morning from 08:00 to 09:00 until April 2022.
 - [해외취업 스터디] - Try to explain selected leetcode problems every thursday 22:00~24:00
-Every Thursday 22:00-24:00
 - [leetcode mock interview study](https://docs.google.com/spreadsheets/d/1vXKm-odt58_5NmbRForqkikMESEKtwAW2RCO4gCN7wQ/edit?usp=sharing) - Leetcode mock interview every monday 21:00~23:00
 
 
