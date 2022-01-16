@@ -1,8 +1,13 @@
 <!-- Your title -->
 ## Hello, My name is kim namque.  I'm a software engineer and database administrator.
 
+## Tech Stacks
+#### Programming Languages
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 #### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ## Cards
 [![soicem's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=knq512412&theme=dark)](https://leetcode.com/knq512412/)
