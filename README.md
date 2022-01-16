@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on kakaocorp as a Database Administrator
+🔭 I’m currently working on kakaocorp as a Database Administrator
