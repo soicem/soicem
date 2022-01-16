@@ -1,12 +1,11 @@
-<div align = "center">
+<!-- Your title -->
+## Hello, My name is kim namque.  I'm a software engineer and database administrator at kakao corp.
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-  #### Database
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-  ## Cards
-  [![tein408's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=knq512412&theme=dark)](https://leetcode.com/knq512412/)
+## Cards
+[![soicem's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=knq512412&theme=dark)](https://leetcode.com/knq512412/)
 
 
 
