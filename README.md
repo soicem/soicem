@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, My name is kim namque.  I'm a software engineer and database administrator at kakao corp.
+## Hello, My name is kim namque.  I'm a software engineer and database administrator.
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
