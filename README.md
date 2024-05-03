@@ -9,9 +9,6 @@
 #### Database
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-## Cards
-[![soicem's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=knq512412&theme=dark)](https://leetcode.com/knq512412/)
-
 ## Study groups in progress
 
 
